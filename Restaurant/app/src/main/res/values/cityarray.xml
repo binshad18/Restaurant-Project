@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="cities">
+        <item>Calicut</item>
+        <item>Manjeri</item>
+        <item>Malappuram</item>
+        <item>Kochi</item>
+        <item>Thrissur</item>
+        <item>Kottayam</item>
+        <item>Trivandrum</item>
+        <item>Palakkad</item>
+    </string-array>
+
+</resources>
